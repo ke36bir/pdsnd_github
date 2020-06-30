@@ -25,3 +25,4 @@ https://stackoverflow.com/questions/48285893/python-combination-of-two-columns
 https://stackoverflow.com/questions/497765/python-string-joinlist-on-object-array-rather-than-string-array
 https://pandas.pydata.org/docs/
 https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+https://www.youtube.com/watch?v=OdbBmvfThJY
