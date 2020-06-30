@@ -149,8 +149,8 @@ def user_stats(df, city):
     start_time = time.time()
 
     # TO DO: Display counts of user types
-    df['User Type'].value_counts()
-    user_types = len(df['User Type'].unique())
+    df['User type'].value_counts()
+    user_types = len(df['User type'].unique())
     print('The number of user types is {}'.format(user_types))
 
     if not city.lower() == "washington":
