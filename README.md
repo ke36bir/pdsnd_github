@@ -13,9 +13,9 @@ an interactive experience in the terminal to present these statistics.
 
 ### Files used
 Files used include:
-  • chicago.csv
-  • new_york_city.csv
-  • washington.csv
+• chicago.csv
+• new_york_city.csv
+• washington.csv
 
 
 ### Credits
